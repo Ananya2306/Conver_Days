@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Convert_Days
+comment0.text=\r\nWrite\ a\ program\ in\ Java\ to\ accept\ the\ Number\ of\ Days.\r\nDisplay\ the\ result\ after\ converting\ it\ into\r\n\ Number\ of\ Years,\ \r\n\ Number\ of\ Months\ and\ \r\n\ The\ Remaining\ Number\ of\ Days.\r\n
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2
